@@ -1,0 +1,47 @@
+{
+  "isDevelopers": {
+    "developer": {
+     "name": "Isuru Chamika",
+     "number": "94766632281",
+     "react": "🥷"
+    },
+    "coreDeveloper": {
+     "name": "Tharusha Kavindya",
+     "number": "94785635619",
+     "react": "✨"
+    },
+    "supporters": {
+     "numbers": "94760126983",
+     "react": "🤵‍♂️"
+    }
+  },
+
+  "isBannedUsers": {
+    "mainSystem": {
+     "numbers": "94781658861",
+     "react": "❌"
+    }
+  },
+
+  "isBotStatus": {
+    "reacts": {
+     "isOwnerReact": "true",
+     "isDevReact": "true",
+     "isBanUserReact": "true",
+     "isOtherReact": "true"
+    },
+    "antiData": {
+     "isAntiBot": "true",
+     "isBotDetect": "true",
+     "isAntiLink": "true",
+     "isAntiBad": "true"
+    },
+    "others": {
+     "isStatusSeen": "true",
+     "isMsgRead": "true",
+     "isAImode": "true"
+    }
+  }
+}
+
+
