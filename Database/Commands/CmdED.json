@@ -5,6 +5,6 @@
 
   "isCmdSystem": {
         "isAliveCmd": "on",
-        "isMenuCmd": "on",
+        "isMenuCmd": "on"
   }
 }
