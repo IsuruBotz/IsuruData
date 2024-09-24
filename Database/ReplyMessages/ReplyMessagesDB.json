@@ -1,0 +1,9 @@
+{
+  "Bot-Name": "MACTRIX-MD",
+  "Bot-Version": "1.0.0",
+  "Bot-Developer": "Isuru Chamika",
+
+  "replyMessagesDB": {
+        "premium": ""
+  }
+}
