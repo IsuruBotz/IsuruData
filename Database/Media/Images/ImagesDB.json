@@ -1,7 +1,7 @@
 {
-  "Bot-Name": "MACTRIX-MD",
-  "Bot-Version": "1.0.0",
-  "Bot-Developer": "Isuru Chamika",
+  "BOT_NAME": "MACTRIX-MD",
+  "VERSION": "1.0.0",
+  "CREATER": "Isuru Chamika",
 
   "imagesDB": {
       "mainLogo": "https://raw.githubusercontent.com/IsuruBotz/IsuruData/refs/heads/main/Database/Media/MACTRIX-MD_MAIN-LOGO.jpg",
