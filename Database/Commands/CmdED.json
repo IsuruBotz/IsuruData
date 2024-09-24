@@ -3,8 +3,8 @@
   "VERSION": "1.0.0",
   "CREATER": "Isuru Chamika",
 
-  "isCmdEnabled": {
-        "aliveCmd": "on",
-        "menuCmd": "on",
+  "isCmdSystem": {
+        "isAliveCmd": "on",
+        "isMenuCmd": "on",
   }
 }
