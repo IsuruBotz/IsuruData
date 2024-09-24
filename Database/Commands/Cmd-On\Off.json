@@ -1,0 +1,10 @@
+{
+  "BOT_NAME": "MACTRIX-MD",
+  "VERSION": "1.0.0",
+  "CREATER": "Isuru Chamika"
+
+  "isCmdEnabled": {
+        "isAliveCmd": "on",
+        "isMenuCmd": "on",
+  }
+}
