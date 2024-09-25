@@ -10,9 +10,9 @@
         "isScriptCmd_ON": "true",
         "isYtVideodlCmd_ON": "true",
         "isYtSongdlCmd_ON": "true",
-        "isFbVideodl_ON": "true",
-        "isTiktokdl_ON": "true",
-        "isGdrivedl_ON": "true",
-        "isMediaFiredl_ON": "true"
+        "isFbVideodlCmd_ON": "true",
+        "isTiktokdlCmd_ON": "true",
+        "isGdrivedlCmd_ON": "true",
+        "isMediaFiredlCmd_ON": "true"
   }
 }
