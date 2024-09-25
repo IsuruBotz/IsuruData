@@ -11,7 +11,7 @@
         "isYtVideodlCmd_ON": "true",
         "isYtSongdlCmd_ON": "true",
         "isFbVideodlCmd_ON": "true",
-        "isTiktokdlCmd_ON": "false",
+        "isTiktokdlCmd_ON": "true",
         "isGdrivedlCmd_ON": "true",
         "isMediaFiredlCmd_ON": "true"
   }
