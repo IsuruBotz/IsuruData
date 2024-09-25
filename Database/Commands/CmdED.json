@@ -5,6 +5,10 @@
 
   "isCmdSystem": {
         "isAliveCmd_ON": "true",
-        "isMenuCmd_ON": "true"
+        "isMenuCmd_ON": "true",
+        "isSystemCmd_ON": "true",
+        "isScriptCmd_ON": "true",
+        "isYtVideoCmd_ON": "true",
+        "isYtSongCmd_ON": "true"
   }
 }
