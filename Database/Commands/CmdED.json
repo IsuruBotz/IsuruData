@@ -8,7 +8,11 @@
         "isMenuCmd_ON": "true",
         "isSystemCmd_ON": "true",
         "isScriptCmd_ON": "true",
-        "isYtVideoCmd_ON": "true",
-        "isYtSongCmd_ON": "true"
+        "isYtVideodlCmd_ON": "true",
+        "isYtSongdlCmd_ON": "true",
+        "isFbVideodl_ON": "true",
+        "isTiktokdl_ON": "true",
+        "isGdrivedl_ON": "true",
+        "isMediaFiredl_ON": "true"
   }
 }
