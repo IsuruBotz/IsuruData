@@ -4,7 +4,7 @@
   "CREATER": "Isuru Chamika",
 
   "isCmdSystem": {
-        "isAliveCmd_ON": "true",
+        "isAliveCmd_ON": "false",
         "isMenuCmd_ON": "true"
   }
 }
