@@ -4,6 +4,7 @@
   "Bot-Developer": "Isuru Chamika",
 
   "replyMessagesDB": {
-        "disableCmd_EN": "This command has been disabled by the *Developer* due to some bug. 🙂💔"
+        "disableCmd_EN": "This command has been disabled by the *Developer* due to some bug. 🙂💔",
+        "disableCmd_SI": "කිසියම් දෝෂයක් හේතුවෙන් මෙම විධානය *සංවර්ධකයා* විසින් අක්‍රීය කර ඇත. 🙂💔"
   }
 }
