@@ -7,13 +7,25 @@
   "isUrls": {
     "whatsappMainChannel": "https://whatsapp.com/channel/0029VaZn08Q7j6gBT4I8Ig23",
     "youtubeMainChannel": "",
-    "mactrixBotSupportGroup": "",
+    "mactrixBotSupportGroup": "https://chat.whatsapp.com/CNjmQzhrVQf3ZeBEgRghNJ",
+    "dimensionBotSupportGroup": "",
+    "movieGroup_ONE": "https://chat.whatsapp.com/EmYl7yXwJJ7IiDQlmZS5Cy",
+    "movieGroup_TWO": "https://chat.whatsapp.com/EMj59pT9UMT6ZUEtZnLshL",
+    "movieCommunity": "https://chat.whatsapp.com/HdaImUrr43p45b29on3PtR",
+    "movieRequestGroup": "https://chat.whatsapp.com/Bc1udVaydCf4jTZrP9dPPa",
+    "newsUpdatesCommunity": "https://chat.whatsapp.com/GBmuabtVf5MJ1PnXYpTgIb",
+    "whatsappBotGroup": ""
+  },
+
+  "isJids": {
+    "whatsappMainChannel": "120363261989936335@newsletter",
+    "mactrixBotSupportGroup": "120363285568786124@g.us",
     "dimensionBotSupportGroup": "",
     "movieGroup_ONE": "",
     "movieGroup_TWO": "",
     "movieCommunity": "",
     "movieRequestGroup": "",
-    "newsUpdatesGroup": "",
+    "newsUpdatesCommunity": "",
     "whatsappBotGroup": ""
   }
 }
