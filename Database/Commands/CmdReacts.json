@@ -1,0 +1,30 @@
+{
+  "BOT_NAME": "MACTRIX-MD",
+  "VERSION": "1.0.0",
+  "CREATER": "Isuru Chamika",
+
+  "isDLCmdReacts": {
+     "ytSong" {
+
+
+       "isMain": {
+        "isBefore": "",
+        "isAfter": ""
+       },
+
+       "isAudio": {
+         "isBefore": "",
+         "isAfter": ""
+       },
+
+       "isDocument": {
+         "isBefore": "",
+         "isAfter": ""
+       },
+
+       
+
+
+
+        
+}
