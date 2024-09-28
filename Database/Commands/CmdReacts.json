@@ -4,7 +4,7 @@
   "CREATER": "Isuru Chamika",
 
   "isDLCmdReacts": {
-     "isytSong": {
+     "isYtSong": {
 
        "isMain": {
         "isBefore": "🔎",
@@ -20,8 +20,9 @@
          "isBefore": "📥",
          "isAfter": "📤"
        }
-    }
-  }    
+     }
+  }
+}
                                                                  
                                                                            
                                                                                      
