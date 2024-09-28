@@ -4,8 +4,7 @@
   "CREATER": "Isuru Chamika",
 
   "isDLCmdReacts": {
-     "ytSong" {
-
+     "isYtSong" {
 
        "isMain": {
         "isBefore": "",
@@ -20,9 +19,21 @@
        "isDocument": {
          "isBefore": "",
          "isAfter": ""
+       }
+   
+     },
+
+     "isYtVideo": {
+
+       "isMain": {
+         "isBefore": "",
+         "isAfter": ""
        },
 
-       
+       "isVideo": {
+         "240p":
+
+
 
 
 
