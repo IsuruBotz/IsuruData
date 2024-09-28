@@ -20,31 +20,109 @@
          "isBefore": "📥",
          "isAfter": "📤"
        }
-     }
-  }
+   
+     },
+
+     "isYtVideo": {
+
+       "isMain": {
+         "isBefore": "🔎",
+         "isAfter": "🎥"
+       },
+
+       "isVideo": {
+         "240p": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "360p": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "480p": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "720p": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "1080p": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          }
+       },
+       
+       "isDocument": {
+         "240p": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "360p": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "480p": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "720p": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "1080p": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          }
+       }
+     },
+     
+     "isFbVideo": {
+     
+       "isMain": {
+          "isBefore": "🎉",
+          "isAfter": "🎬"
+       },
+       
+       "isVideo": {
+         "isSD": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "isHD": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          } 
+        },
+        
+       "isAudio": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+         }     
+     },       
+             
+     "isTiktokVideo": {
+     
+       "isMain": {
+          "isBefore": "⭐",
+          "isAfter": "🎬"
+         },
+         
+       "isVideo": {
+         "isWithWM": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "isWithoutWM": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          }            
+         },                
+                                   
+       "isAudio": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+         }     
+     },                                      
+  }                                                     
 }
-                                                                 
-                                                                           
-                                                                                     
-                                                                                               
-                                                                                                         
-                                                                                                                   
-                                                                                                                             
-                                                                                                                                       
-                                                                                                                                                 
-                                                                                                                                                           
-                                                                                                                                                                     
-                                                                                                                                                                               
-                                                                                                                                                                                         
-                                                                                                                                                                                                   
-                                                                                                                                                                                                             
-                                                                                                                                                                                                                       
-                                                                                                                                                                                                                                 
-                                                                                                                                                                                                                                           
-                                                                                                                                                                                                                                                     
-                                                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                                                   
-                                                                                                                                                                                                                                                                         
-                                                                                                                                                                                                                                                                                             
-                                                                                                                                                                                                                                                                                                       
-                                                                                                                                                                                                                                                                                                            
