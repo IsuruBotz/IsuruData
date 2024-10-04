@@ -13,6 +13,7 @@
         "isFbVideodlCmd_ON": "true",
         "isTiktokdlCmd_ON": "true",
         "isGdrivedlCmd_ON": "true",
-        "isMediaFiredlCmd_ON": "true"
+        "isMediaFiredlCmd_ON": "true",
+        "isTreadsdlCmd_ON": "false"
   }
 }
