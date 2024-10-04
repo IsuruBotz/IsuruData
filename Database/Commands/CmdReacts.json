@@ -27,45 +27,45 @@
          "isAfter": "🎥"
        },
        "isVideo": {
-         "240p": {
+         "twoP": {
           "isBefore": "📥",
           "isAfter": "📤"
           },
-         "360p": {
+         "threeP": {
           "isBefore": "📥",
           "isAfter": "📤"
           },
-         "480p": {
+         "fourP": {
           "isBefore": "📥",
           "isAfter": "📤"
           },
-         "720p": {
+         "sevenP": {
           "isBefore": "📥",
           "isAfter": "📤"
           },
-         "1080p": {
+         "tenP": {
           "isBefore": "📥",
           "isAfter": "📤"
           }
        },
        "isDocument": {
-         "240p": {
+         "twoP": {
           "isBefore": "📥",
           "isAfter": "📤"
           },
-         "360p": {
+         "threeP": {
           "isBefore": "📥",
           "isAfter": "📤"
           },
-         "480p": {
+         "fourP": {
           "isBefore": "📥",
           "isAfter": "📤"
           },
-         "720p": {
+         "sevenP": {
           "isBefore": "📥",
           "isAfter": "📤"
           },
-         "1080p": {
+         "tenP": {
           "isBefore": "📥",
           "isAfter": "📤"
           }
