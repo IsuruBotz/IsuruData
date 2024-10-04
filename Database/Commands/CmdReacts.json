@@ -114,6 +114,14 @@
           "isBefore": "📥",
           "isAfter": "📤"
        }     
+     },
+
+     "isTreads": {
+     
+       "isMain": {
+          "isBefore": "⚖️",
+          "isAfter": "🧩"
+       }
      }
   }
 }
