@@ -10,17 +10,66 @@
         "isBefore": "🔎",
         "isAfter": "🎶"
        },
-
        "isAudio": {
          "isBefore": "📥",
          "isAfter": "📤"
        },
-
        "isDocument": {
          "isBefore": "📥",
          "isAfter": "📤"
        }
-   
+     },
+
+     "isYtVideo": {
+
+       "isMain": {
+         "isBefore": "🔎",
+         "isAfter": "🎥"
+       },
+       "isVideo": {
+         "240p": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "360p": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "480p": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "720p": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "1080p": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          }
+       },
+       "isDocument": {
+         "240p": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "360p": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "480p": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "720p": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "1080p": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          }
+       }
      }
-  }
-}
+   }
+ }
