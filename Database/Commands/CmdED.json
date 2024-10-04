@@ -14,6 +14,6 @@
         "isTiktokdlCmd_ON": "true",
         "isGdrivedlCmd_ON": "true",
         "isMediaFiredlCmd_ON": "true",
-        "isTreadsdlCmd_ON": "false"
+        "isThreadsdlCmd_ON": "false"
   }
 }
