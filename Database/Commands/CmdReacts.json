@@ -70,6 +70,28 @@
           "isAfter": "📤"
           }
        }
+     },
+    
+     "isFbVideo": {
+     
+       "isMain": {
+          "isBefore": "🎉",
+          "isAfter": "🎬"
+       },
+       "isVideo": {
+         "isSD": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "isHD": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          } 
+        },
+       "isAudio": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+         }     
      }
-   }
- }
+  }
+}
