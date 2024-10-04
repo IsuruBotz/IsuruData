@@ -92,6 +92,28 @@
           "isBefore": "📥",
           "isAfter": "📤"
          }     
+     },
+    
+     "isTiktokVideo": {
+     
+       "isMain": {
+          "isBefore": "⭐",
+          "isAfter": "🎬"
+       },
+       "isVideo": {
+         "isWithWM": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+         },
+         "isWithoutWM": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+         }            
+       },                                    
+       "isAudio": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+       }     
      }
   }
 }
