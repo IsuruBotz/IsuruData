@@ -116,7 +116,7 @@
        }     
      },
 
-     "isTreads": {
+     "isThread": {
      
        "isMain": {
           "isBefore": "⚖️",
