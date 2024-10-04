@@ -79,11 +79,11 @@
           "isAfter": "🎬"
        },
        "isVideo": {
-         "isSD": {
+         "SD": {
           "isBefore": "📥",
           "isAfter": "📤"
           },
-         "isHD": {
+         "HD": {
           "isBefore": "📥",
           "isAfter": "📤"
           } 
