@@ -130,6 +130,14 @@
           "isBefore": "📁",
           "isAfter": "📥"
        }
+     },
+
+     "isGDrive": {
+     
+       "isMain": {
+          "isBefore": "📁",
+          "isAfter": "📥"
+       }
      }
   }
 }
