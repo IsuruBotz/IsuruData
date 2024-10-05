@@ -122,6 +122,14 @@
           "isBefore": "⚖️",
           "isAfter": "🧩"
        }
+     },
+
+     "isMediaFire": {
+     
+       "isMain": {
+          "isBefore": "📁",
+          "isAfter": "📥"
+       }
      }
   }
 }
