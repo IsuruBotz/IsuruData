@@ -138,6 +138,14 @@
           "isBefore": "📁",
           "isAfter": "📥"
        }
+     },
+
+     "isApk": {
+     
+       "isMain": {
+          "isBefore": "📦",
+          "isAfter": "📥"
+       }
      }
   }
 }
