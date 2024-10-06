@@ -147,5 +147,23 @@
           "isAfter": "📥"
        }
      }
-  }
+  },
+
+  "isExtCmdReacts": {
+     "isGptOne": {
+
+       "isMain": {
+          "isBefore": "👽",
+          "isAfter": "🧠"
+       }
+     },
+
+     "isGptTwo": {
+     
+       "isMain": {
+          "isBefore": "👽",
+          "isAfter": "🧠"
+       }
+     }
+   }
 }
