@@ -29,6 +29,9 @@
         "emptyMessage_SI": "ක්ස්න්ස්ක්ස්බ්ස්ජ්",
 
         "emptyApiKey_EN": "jwjsjsj",
-        "emptyApiKey_SI": "ක්ස්ජ්ස්ජ්ජ්ස්ක්ස්ජ්ස්"
+        "emptyApiKey_SI": "ක්ස්ජ්ස්ජ්ජ්ස්ක්ස්ජ්ස්",
+
+        "btnMsg_EN": "`Please click the button below and select the type you want.`",
+        "btnMsg_SI": "`කරුණාකර පහත බොත්තම ක්ලික් කර ඔබට අවශ්‍ය වර්ගය තෝරන්න.`"
   }
 }
