@@ -41,6 +41,11 @@
      "isMsgRead": "true",
      "isAImode": "true"
     }
+  },
+
+  "isBotInfo": {
+    "lBotFooter": "*Mᴀᴄᴛʀɪx ⦁ MᴜʟᴛɪDᴇᴠɪᴄᴇ Wᴀ-Bᴏᴛ*\n*Dᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ Iꜱᴜʀᴜ Cʜᴀᴍɪᴋᴀ ㋡*",
+    "sBotFooter": "*Mᴀᴄᴛʀɪx ⦁ MᴜʟᴛɪDᴇᴠɪᴄᴇ WᴀBᴏᴛ*\n*Dᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ Iꜱᴜʀᴜ Cʜᴀᴍɪᴋᴀ*"
   }
 }
 
