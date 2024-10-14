@@ -45,7 +45,17 @@
 
   "isBotInfo": {
     "lBotFooter": "*Mᴀᴄᴛʀɪx ⦁ MᴜʟᴛɪDᴇᴠɪᴄᴇ Wᴀ-Bᴏᴛ*\n*Dᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ Iꜱᴜʀᴜ Cʜᴀᴍɪᴋᴀ ㋡*",
-    "sBotFooter": "*Mᴀᴄᴛʀɪx ⦁ MᴜʟᴛɪDᴇᴠɪᴄᴇ WᴀBᴏᴛ*\n*Dᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ Iꜱᴜʀᴜ Cʜᴀᴍɪᴋᴀ*"
+    "sBotFooter": "*Mᴀᴄᴛʀɪx ⦁ MᴜʟᴛɪDᴇᴠɪᴄᴇ WᴀBᴏᴛ*\n*Dᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ Iꜱᴜʀᴜ Cʜᴀᴍɪᴋᴀ*",
+
+    "songHeader": "```🎧 MACTRIX-MD SONG DL 🎧```",
+    "apkHeader": "```📦 MACTRIX-MD APK DL 📦```",
+    "videoHeader": "```🎧 MACTRIX-MD VIDEO DL 🎧```",
+    "fbHeader": "```🎧 MACTRIX-MD FB DL 🎧```",
+    "ttHeader": "```🎧 MACTRIX-MD TT DL 🎧```",
+    "gdHeader": "```🎧 MACTRIX-MD GDIVE DL 🎧```",
+    "mfHeader": "```🎧 MACTRIX-MD MFIRE DL 🎧```"
+
+
   }
 }
 
