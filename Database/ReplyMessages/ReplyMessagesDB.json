@@ -31,7 +31,10 @@
         "emptyApiKey_EN": "jwjsjsj",
         "emptyApiKey_SI": "ක්ස්ජ්ස්ජ්ජ්ස්ක්ස්ජ්ස්",
 
-        "btnMsg_EN": "`Please click the button below and select the type you want.`",
-        "btnMsg_SI": "`කරුණාකර පහත බොත්තම ක්ලික් කර ඔබට අවශ්‍ය වර්ගය තෝරන්න.`"
+        "numReplyMsg_EN": "`Please click the button below and select the type you want.`",
+        "numReplyMsg_SI": "`කරුණාකර පහත බොත්තම ක්ලික් කර ඔබට අවශ්‍ය වර්ගය තෝරන්න.`",
+
+        "notFoundMsg_EN": "Can't find enything!!",
+        "notFoundMsg_SI": "එඋශ්ශ්ශ්ශ්ශ්ශ්"
   }
 }
