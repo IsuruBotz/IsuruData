@@ -15,7 +15,7 @@
         "isGdrivedlCmd_ON": "true",
         "isMediaFiredlCmd_ON": "true",
         "isThreadsdlCmd_ON": "false",
-        "isApkdlCmd_ON": "true",
+        "isApkdlCmd_ON": "false",
         "isGptOneCmd_ON": "true",
         "isGptTwoCmd_ON": "true",
         "isSinhalaSubdlCmd_ON": "true"
